@@ -1,1 +1,1 @@
-🔗 [Live Demo]((https://ankit-rajan.github.io/Sign-up-form/))
+🔗 [Live Demo](https://ankit-rajan.github.io/Sign-up-form/)
